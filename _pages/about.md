@@ -11,6 +11,17 @@ redirect_from:
 
 
 Hi! I am Rishabh Ranjan, a Masters student in Astrophysics at the University of Bonn, Germany. I work on topics related to cosmology, particularly galaxy surveys, higher-order statistics and cosmological inference.
+
+### A brief background
+
+_"Since I was a child, I was interested in these twinkling objects in the sky..."_, yeah, I'm not gonna start my intro with this overly used cliche :)
+
+I did my bachelors in Mechanical Engineering at IIT Bhilai. After doing some coursework in this field, I realized that a lot of skills I learnt could be used in Physics and Astrophysics, particularly fluid dynamics and thermodynamics. This motivated me to explore and pursue university-level physics as a minor during my bachelors. I further propelled myself into some undergraduate research in both of these fields, and found that I was highly inclined towards computational astrophysics and cosmology. 
+
+I graduated from IIT Bhilai in 2023 and started working at Deutsche Bank as a model validation analyst. Once again, I realized that the interplay of markets is modelled the same way as stochastic systems are modelled in physics. These connections between seemingly diverse fields widened my world view (and certainly added some value to my job experience :D). But I wasn't quite satisfied, since I got addicted to working with the physics beyond the skies.
+
+Hence I went ahead to pursue a masters degree in astrophysics at the University of Bonn starting 2024. As a part of my coursework, I got exposed to a multitude of topics in astronomy and astrophysics, the one that fascinated me the most was cosmology. This started my quest for pursuing a research career in cosmology, of which the internship with Prof. Cristiano Porciani on exploring the different dynamical dark energy parameterizations was just a small step in the right direction. I started my master thesis under the supervision of Dr. Alexander Eggemeier and Prof. Cristiano Porciani in Nov 2025 on the topic "Extending the Evolution Mapping to the Nonlinear Matter Bispectrum".
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! -->
 
  <!-- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
