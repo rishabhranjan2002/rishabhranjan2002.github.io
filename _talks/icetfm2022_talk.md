@@ -1,7 +1,7 @@
 ---
 title: "Impact of magnetic field on a charged fluid in kinetic theory as an application towards biofluids"
 collection: talks
-type: "Contributed talk"
+type: "Talk"
 permalink: /talks/icetfm2022_talk
 venue: "International Conference on Emergent Techniques and Functional Materials (ICETFM-2022)"
 date: 2022-07-13

@@ -1,7 +1,7 @@
 ---
 title: "Evolution Mapping of the Nonlinear Matter Bispectrum"
 collection: talks
-type: "Contributed talk"
+type: "Talk"
 permalink: /talks/ag2026_talk
 venue: "Astronomisches Gesellschaft (AG) Meeting 2026"
 date: 2026-09-10
