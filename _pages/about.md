@@ -12,8 +12,8 @@ redirect_from:
 
 Hi! I am Rishabh Ranjan, a Masters student in Astrophysics at the University of Bonn, Germany. I work on topics related to cosmology, particularly galaxy surveys, higher-order statistics and cosmological inference.
 
-### How did I get here?
-
+How did I get here?
+======
 _"Since I was a child, I was interested in these twinkling objects in the sky..."_, yeah, maybe this is not the best starting point :)
 
 I did my bachelors in Mechanical Engineering at IIT Bhilai. After doing some coursework in this field, I realized that a lot of skills I learnt could be used in Physics and Astrophysics, particularly fluid dynamics and thermodynamics. This motivated me to explore and pursue university-level physics as a minors specialization during my bachelors. I further propelled myself into some undergraduate research in both of these fields, and found that I was highly inclined towards computational astrophysics and cosmology. 
@@ -22,24 +22,24 @@ I graduated from IIT Bhilai in 2023 and started working at Deutsche Bank as a mo
 
 Hence I went ahead to pursue a masters degree in astrophysics at the University of Bonn starting 2024. As a part of my coursework, I got exposed to a multitude of topics in astronomy and astrophysics, the one that fascinated me the most was cosmology. This started my quest for pursuing a research career in cosmology, of which the internship with Prof. Cristiano Porciani on exploring the different dynamical dark energy parameterizations was just a small step in the right direction. I started my master thesis under the supervision of Dr. Alexander Eggemeier and Prof. Cristiano Porciani in Nov 2025 on the topic "Extending the Evolution Mapping to the Nonlinear Matter Bispectrum".
 
-### Cool, but what do I actually do?
-
+Cool, but what do I actually do?
+======
 If I have to explain my current research badly, I'd say that I'm working on methods to speeden up the process of "counting triangles in the sky". ;)
 
 If it doesn't ring any bells, don't worry, here's a better explanation: I am working on developing methods to expedite the computation/emulation of the nonlinear matter bispectrum using the evolution mapping framework. Keeping it light, I'd just say that evolution mapping is a technique that reduces the number of cosmological parameters required to accurately estimate the nonlinear matter power spectrum (you can read more about it here: [Sanchez2022](https://arxiv.org/pdf/2108.12710), [Sanchez2025](https://arxiv.org/abs/2511.13826)). My work extends this framework to the nonlinear matter bispectrum. 
 
 Throughout this project, I have learnt how to deal with N-body simulations, generate overdensity field grids, estimate bispectrum from simulations and use Gaussian process to build fast and robust emulators.
 
-### Is that the only cool thing I did?
-
+Is that the only cool thing I did?
+======
 Maybe not :)
 
 During my internship with Prof. Cristiano Porciani, I explored different dynamical dark energy models (or parameterizations) and tried to investigate in detail whether the choice of functional forms affects the constraints on the dynamical dark energy parameters w_0 and w_a. Long story short, it doesn't. Through this project, I learnt how to perform cosmological inference, which is a very important skill to have in cosmology. I also learnt how to deal with cosmological codes written in Fortran such as CAMB (despite my reservations against this extremely outdated language).
 
 Besides cosmology, I also jumped into the realm of Magnetohydrodynamics (MHD) simulations. I started an internship with Prof. Jennifer Schober on exploring the phenomena happening before the onset of kinematic phase in nonhelical forced MHD systems. This project provided me with an opportunity to put my knowledge of fluid dynamics and simulation skills to use, while teaching me more about the statistical methods of studying turbulent systems.
 
-### What about interests beyond astrophysics and cosmology?
-
+What about interests beyond academic pursuits?
+======
 Besides my academic endeavours, I love making and mixing EDM songs. Till now, I have made 100+ EDM mashups (not public yet) and will be doing more. Furthermore, I love reading comics, mostly by the likes of Marvel and DC. I can have a conversation on Jonathan Hickman's Secret Wars storyline for hours, and it seems that Marvel Studios is also taking that route in their movies, so a big win for me!
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! -->
