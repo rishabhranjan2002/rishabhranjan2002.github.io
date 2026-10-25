@@ -40,7 +40,10 @@ Beyond cosmology, I also explored magnetohydrodynamics (MHD) simulations. I bega
 
 What about interests beyond academic pursuits?
 ======
-Besides my academic endeavours, I love making and mixing EDM tracks. So far, I've made more than 100 EDM mashups (which I haven't released publicly yet), and I plan to make more. I also love reading comics, especially those from Marvel and DC. I could talk for hours about Jonathan Hickman's Secret Wars storyline, and Marvel Studios seems to be taking a similar route with its films—a big win for me!
+Besides my academic endeavours, I love making and mixing EDM tracks. So far, I've made more than 100 EDM mashups (which I haven't released publicly yet), and I plan to make more. I also love reading comics, especially those from Marvel and DC.
+
+Recently, I've become increasingly interested in how AI may shape the future of research, as this is an issue that affects me directly. I want to understand the implications and help educate a wider audience about using AI tools ethically in academic settings. I'm also following developments in AI-assisted and AI-led research behind the closed doors of private companies, and considering how these developments could affect open academic research. I plan to write a short series of blog posts sharing my perspective on the situation and how we might address its challenges, so stay tuned...
+<!-- I could talk for hours about Jonathan Hickman's Secret Wars storyline, and Marvel Studios seems to be taking a similar route with its films—a big win for me! -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! -->
 
